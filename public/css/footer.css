@@ -1,0 +1,79 @@
+body{
+	font-family: 'Roboto', sans-serif;	
+	scroll-behavior: smooth;
+
+}
+html,body{
+	height: 100%;
+}
+/*::-webkit-scrollbar{
+	width: 0px;
+}*/
+h4{
+	font-weight: 600;
+}
+.navbar{
+	font-weight: 600;
+	background: rgba(0,0,0,0);
+}
+.header{
+	background-color: #F0F1F2;
+	height: 100%;
+}
+.nav-link:hover{
+	padding-bottom: 2px;
+	border-bottom: 2px solid #2D3E50;
+	transition: 0.25s;
+	color: #2D3E50;
+}
+.title-container{
+	font-weight: 600;
+	/*padding: 15%;	*/
+	color: #2D3E50;
+	padding: 15%;
+}
+.title{
+	font-size: 38px;
+}
+.subtitle{
+	font-size: 28px;
+}
+.btn-outline-dark{
+	border-radius: 20px;
+	border: 2px solid #2D3E50;
+	font-weight: 600;
+}
+.btn-outline-dark:hover{
+	transition: 0.25s;
+}
+.hrrb{
+	width: 15%;
+	border: 1px solid #F8F9FA;
+}
+.hrrw{
+	width: 15%;
+	border: 1px solid #2D3E50;
+}
+.lead{
+	font-size: 16px;
+}
+.progress-bar{
+	background: #2D3E50;
+}
+.social-media{	
+	color: #F8F9FA;
+	border-radius: 50px;
+	/*border: 2px solid #F8F9FA;*/
+	padding:5px;
+}
+.social-media:hover{
+	background-color: #F8F9FA;
+	color: #2D3E50;
+	transition: 0.25s;
+}
+.sideside{
+	color: #2D3E50;
+}
+.sideside:hover{
+	color: #2D3E50;
+}
